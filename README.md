@@ -1,6 +1,6 @@
 # Snake-Water-Gun
 
-":snake:"":ocean:"":gun:"
+:snake::ocean::gun:
 
 A game that never gets old to be fun !!
 
